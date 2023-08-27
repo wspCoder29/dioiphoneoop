@@ -1,5 +1,4 @@
-# Projeto para demonstração básica de OOP Dio-Santander.
-
+# Projeto para demonstração básica de OOP Dio/GFT/AWS
 Neste projeto de referência do bootcamp Dio-Santander foram criadas as diagramações das classes e interfaces com a proposta de representar os papéis do iPhone de: 
 Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 Como instruído no desafio não foi implementada lógica para os métodos.
